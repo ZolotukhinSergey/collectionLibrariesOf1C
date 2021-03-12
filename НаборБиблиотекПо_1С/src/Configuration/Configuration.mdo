@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="6b545b32-57b8-4ab9-8050-42b9f1d3d11b">
+  <name>НаборБиблиотекПо_1С</name>
+  <synonym>
+    <key>ru</key>
+    <value>Набор библиотек по 1С</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="77cd7e95-191a-4658-ac0a-89b748b4994f"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="46c02cca-96f5-420a-b0b3-ac86e27ad59d"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="dd44ca2a-2290-46dd-bed3-b29219ee51c3"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="be426a31-537b-41c1-a0f7-8c116261c9bc"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="19f468fd-85f6-4277-a593-f85ffe1bd99c"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="216b786a-1fe7-4959-97cf-3c9296e07dcf"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="a5420eab-3ea2-4d88-9775-267ea3000dae"/>
+  <configurationExtensionCompatibilityMode>8.3.19</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <vendor>Золотухин Сергей</vendor>
+  <version>2021.1</version>
+  <updateCatalogAddress>https://github.com/ZolotukhinSergey/collectionLibrariesOf1C.git</updateCatalogAddress>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <detailedInformation>
+    <key>ru</key>
+    <value>Набор полезных инструментов при работе с 1С</value>
+  </detailedInformation>
+  <copyright>
+    <key>ru</key>
+    <value>Золотухин Сергей</value>
+  </copyright>
+  <vendorInformationAddress>
+    <key>ru</key>
+    <value>https://github.com/ZolotukhinSergey/ZolotukhinSergey</value>
+  </vendorInformationAddress>
+  <configurationInformationAddress>
+    <key>ru</key>
+    <value>https://github.com/ZolotukhinSergey/collectionLibrariesOf1C.git</value>
+  </configurationInformationAddress>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.19</compatibilityMode>
+  <languages uuid="c8364036-2251-4bab-8917-39083b933174">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+</mdclass:Configuration>
