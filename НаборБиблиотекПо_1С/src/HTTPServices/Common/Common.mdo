@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:HTTPService xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="7b2cc1d4-1213-4fb9-a2ae-ccd13556cd15">
+  <name>Common</name>
+  <synonym>
+    <key>ru</key>
+    <value>Common</value>
+  </synonym>
+  <rootURL>Common</rootURL>
+  <reuseSessions>AutoUse</reuseSessions>
+  <sessionMaxAge>20</sessionMaxAge>
+  <urlTemplates uuid="e19a30fd-c502-46a5-b5fd-fdb555e518e8">
+    <name>methods</name>
+    <synonym>
+      <key>ru</key>
+      <value>methods</value>
+    </synonym>
+    <template>/{method}/*</template>
+    <methods uuid="64859f51-1f29-4ff0-8694-276952365534">
+      <name>Любой</name>
+      <synonym>
+        <key>ru</key>
+        <value>Любой</value>
+      </synonym>
+      <httpMethod>Any</httpMethod>
+      <handler>methodsЛюбой</handler>
+    </methods>
+  </urlTemplates>
+</mdclass:HTTPService>

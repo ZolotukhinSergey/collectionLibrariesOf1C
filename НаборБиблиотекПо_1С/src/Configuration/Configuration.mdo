@@ -58,4 +58,13 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <commonModules>CommonModule.ОбменСообщениямиССервисами</commonModules>
+  <commonModules>CommonModule.РаботаС_Sentry</commonModules>
+  <commonModules>CommonModule.КодОбщегоНазначения</commonModules>
+  <commonModules>CommonModule.КодОбщегоНазначенияПовтИсп</commonModules>
+  <commonModules>CommonModule.ОбщегоНазначения</commonModules>
+  <commonModules>CommonModule.СтроковыеФункцииКлиентСервер</commonModules>
+  <commonModules>CommonModule.ОбщегоНазначенияКлиентСервер</commonModules>
+  <commonModules>CommonModule.КодОбщегоНазначенияКлиентСерверПовтИсп</commonModules>
+  <httpServices>HTTPService.Common</httpServices>
 </mdclass:Configuration>
