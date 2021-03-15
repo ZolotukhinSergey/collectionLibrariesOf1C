@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExchangePlan xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="74fb44d2-3db2-464f-b88b-a73f6501aa8d" thisNode="ea0c237a-9469-4845-8874-8d0264018d5b">
+  <producedTypes>
+    <objectType typeId="4db228e2-e337-4d93-a332-aa2dafb09ed8" valueTypeId="395b2389-4f6c-49ec-8c62-1e2cad76b07b"/>
+    <refType typeId="807ac937-117a-4983-85ef-8f42df76f547" valueTypeId="e69e26e8-5cda-4ced-9971-0c73dd5889d0"/>
+    <selectionType typeId="8b3ad8b8-24a0-4aa1-ab4d-933b166cb35e" valueTypeId="1a83b389-11ef-46cc-82c3-037af44ca039"/>
+    <listType typeId="779d2aa4-28c0-4c6c-8035-79089f7476ce" valueTypeId="e75cd715-ed8e-4580-998f-ff085c65db84"/>
+    <managerType typeId="7628331e-e32f-40e5-b99f-c4b307be6e33" valueTypeId="e5901cac-120d-475a-ad27-295effe941cf"/>
+  </producedTypes>
+  <name>ДляПереходаНаНовуюБД</name>
+  <synonym>
+    <key>ru</key>
+    <value>Для перехода на новую БД</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>ExchangePlan.ДляПереходаНаНовуюБД.StandardAttribute.Code</inputByString>
+  <inputByString>ExchangePlan.ДляПереходаНаНовуюБД.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>DontUse</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <codeLength>9</codeLength>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <descriptionLength>25</descriptionLength>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:ExchangePlan>
