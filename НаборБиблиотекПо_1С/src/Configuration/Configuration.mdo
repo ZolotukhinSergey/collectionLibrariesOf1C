@@ -70,5 +70,6 @@
   <exchangePlans>ExchangePlan.ДляПереходаНаНовуюБД</exchangePlans>
   <httpServices>HTTPService.Common</httpServices>
   <scheduledJobs>ScheduledJob.УниверсальноеРегламентноеЗадание</scheduledJobs>
+  <catalogs>Catalog.ДополнительныеНастройкиПрограммы</catalogs>
   <enums>Enum.ТипНаправленияСообщенияОбменаСервиса</enums>
 </mdclass:Configuration>
